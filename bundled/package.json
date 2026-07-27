@@ -1,0 +1,7 @@
+{
+  "name": "bun",
+  "version": "1.0.0",
+  "dependencies": {
+    "@secaudita10x/sec-test-r7bundle": "1.0.0"
+  }
+}
